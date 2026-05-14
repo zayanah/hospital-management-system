@@ -138,19 +138,19 @@ Open `frontend/index.html` directly in your browser (no server needed).
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Login
-![Login](screenshots/Login.png)
+![Login](Screenshots/Login.png)
 
 ### Analytics
-![Analytics](screenshots/Analytics.png)
+![Analytics](Screenshots/Analytics.png)
 
 ### Billing
-![Billing](screenshots/Billing.png)
+![Billing](Screenshots/Billing.png)
 
 ### Appointments
-![Appointments](screenshots/appointments.png)
+![Appointments](Screenshots/appointments.png)
 
 ## For Viva / Presentation
 
