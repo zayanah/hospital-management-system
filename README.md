@@ -135,6 +135,23 @@ Open `frontend/index.html` directly in your browser (no server needed).
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Login
+![Login](screenshots/Login.png)
+
+### Analytics
+![Analytics](screenshots/Analytics.png)
+
+### Billing
+![Billing](screenshots/Billing.png)
+
+### Appointments
+![Appointments](screenshots/appointments.png)
+
 ## For Viva / Presentation
 
 **Why NoSQL (MongoDB)?**
